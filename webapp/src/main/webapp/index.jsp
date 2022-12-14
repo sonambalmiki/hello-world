@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Registration for AWS DEVOPS LEARNING</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Full Name</b></label>
